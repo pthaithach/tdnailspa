@@ -1267,3 +1267,7 @@ a{
 strong{
     font-weight: 700 !important;
 }
+.left-column-day{
+	width: 50px;
+	display: inline-block;
+}
