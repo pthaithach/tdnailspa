@@ -80,22 +80,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="794054305">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="644" column="53" selection-start-line="644" selection-start-column="53" selection-end-line="644" selection-end-column="53" />
+            <state relative-caret-position="126">
+              <caret line="606" column="125" lean-forward="true" selection-start-line="606" selection-start-column="125" selection-end-line="606" selection-end-column="125" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#8317#8324#1" expanded="true" />
-                <element signature="e#18492#18499#1" expanded="true" />
-                <element signature="e#28307#28314#1" expanded="true" />
-                <element signature="e#40152#40159#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,8 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1666">
-              <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+            <state relative-caret-position="2584">
+              <caret line="152" column="31" selection-start-line="152" selection-start-column="31" selection-end-line="152" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -145,8 +161,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/templatemo-sixteen.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="1271" column="26" selection-start-line="1271" selection-start-column="26" selection-end-line="1271" selection-end-column="26" />
+            <state relative-caret-position="313">
+              <caret line="1245" column="1" lean-forward="true" selection-start-line="1245" selection-start-column="1" selection-end-line="1245" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -187,9 +203,9 @@
       <list>
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/products.html" />
+        <option value="$PROJECT_DIR$/assets/css/templatemo-sixteen.css" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/templatemo-sixteen.css" />
       </list>
     </option>
   </component>
@@ -250,7 +266,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../V Star Nails" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tip Top Nails" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -284,17 +300,22 @@
       <workItem from="1647317741912" duration="10834000" />
       <workItem from="1647404093892" duration="595000" />
       <workItem from="1647491742408" duration="1220000" />
+      <workItem from="1648626270556" duration="687000" />
+      <workItem from="1648627039486" duration="609000" />
+      <workItem from="1648627937086" duration="11000" />
+      <workItem from="1648629497701" duration="97000" />
+      <workItem from="1648633694309" duration="632000" />
+      <workItem from="1648703399089" duration="115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46854000" />
+    <option name="totallyTimeSpent" value="49005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.059536353" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14278187" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,8 +343,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        <state relative-caret-position="2584">
+          <caret line="152" column="31" selection-start-line="152" selection-start-column="31" selection-end-line="152" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -357,23 +378,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/templatemo-sixteen.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="1271" column="26" selection-start-line="1271" selection-start-column="26" selection-end-line="1271" selection-end-column="26" />
+        <state relative-caret-position="313">
+          <caret line="1245" column="1" lean-forward="true" selection-start-line="1245" selection-start-column="1" selection-end-line="1245" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="644" column="53" selection-start-line="644" selection-start-column="53" selection-end-line="644" selection-end-column="53" />
+        <state relative-caret-position="126">
+          <caret line="606" column="125" lean-forward="true" selection-start-line="606" selection-start-column="125" selection-end-line="606" selection-end-column="125" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8317#8324#1" expanded="true" />
-            <element signature="e#18492#18499#1" expanded="true" />
-            <element signature="e#28307#28314#1" expanded="true" />
-            <element signature="e#40152#40159#1" expanded="true" />
           </folding>
         </state>
       </provider>
